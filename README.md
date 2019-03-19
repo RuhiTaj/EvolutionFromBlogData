@@ -23,5 +23,5 @@ ImportError: cannot import name main\\
  hash -d pip
  pip install nltk --user
  
- 
+ https://github.com/vi3k6i5/flashtext
   
